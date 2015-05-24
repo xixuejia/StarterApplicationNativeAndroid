@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-139efc09fb8ac42f16f7cf106ae086fc8d27f6d0.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-25dde57015551b3e7949f3579c5d9d2443d8412d.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-43e2ed1fc0e6d3258fcc98823713e25b1ee58194.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-58437af204bad3217fa8e081f7c9d61b393eee44.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-2969aeefafab6f354322f4249ddd80f0f9425b08.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-0f9cd8cb3723b29cc625a74ea714b3a15daf37ba.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-7621c13a38652ee152db91f5a752c9a8eaaa71d2.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-8418058800ee942b042698ade4cc48770c16398f.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-00e20c9d2fd858ae8c950c2b08f6600587a1dc3b.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-f8dd39f63c5cb4a0a2c075071fdebfa89ffd4d90.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/libs/bcprov.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6f5d9926b0afbde9f4dbe3db88c5247be7794bb">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/bcprov-df0669caaa621b4924eec4b4046255c48091ffc3.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-da6d842b318923c3c468046ae7e0eee49b15d137.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/libs/uicandroid.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77f59e8e2008a200535d31a07879e553506c4c82">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/uicandroid-100f3d3f8f29a5f982f6fde5cf04644d821168d2.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/libs/worklight-android.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="87abd0965e2d6175c96d6946e45a55c9d3a62f9c">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/worklight-android-f680402f4cafcf2b58b747dcc327abf3f0db4e05.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-a0fbabd86359acae7d305885ddc7bb915ff73b58.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-65f34e77d7623540c2427619fcd2795c742dc486.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-4e2fa182f30efbc35f10e975d24d2b2026ced8d2.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-867ecbe685c05b496030d37779cad5184ff405e6.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-9408f32c9e3903d0d1a0d9eb001d9f2b666826c7.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-a67d63eb7700691ddeed6534afe34fe653c0ceba.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-a9051225f294f7ae5e80208fe0ad9d8a25329c95.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-fdb4d88f818be35a4c701fda6644d86fcb98c40d.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-5bc3daeb57a51cc9f01dae43d850dbc0650dd0d4.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/libs/android-async-http.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/android-async-http-7f9109532245b6974a547440615d9d7fa4247a78.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-0d3c556ed9c637bed5d63310a7d119bf728584e5.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-8f29cb0b75d9a30efd3f81168697ea3399babd15.jar" />
+    </item>
+    <item
+        jar="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/home/jiaxixue/AndroidStudioProjects/StarterApplicationNativeAndroid/app/build/intermediates/pre-dexed/debug/classes-3634052c36f6d883b13ccb62048348cae883dada.jar" />
+    </item>
+
+</items>
