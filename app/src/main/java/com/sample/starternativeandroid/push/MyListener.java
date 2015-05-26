@@ -109,7 +109,7 @@ public class MyListener implements WLOnReadyToSubscribeListener, WLResponseListe
         AndroidNativePush.updateTextView("Notification received  " + arg0);
         NotificationManager mNotificationManager = (NotificationManager) AndroidNativePush._this.getSystemService(Context.NOTIFICATION_SERVICE);
         int icon = R.drawable.push;
-        CharSequence tickerText = arg0;
+        CharSequence tickerText = arg0; 
         long when = System.currentTimeMillis();
         Notification.Builder nb = new Notification.Builder(AndroidNativePush._this);
         nb.setWhen(when).setTicker(tickerText).setSmallIcon(icon);
