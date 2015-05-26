@@ -23,7 +23,7 @@ public class AndroidNativePush extends Activity {
     private static Button subscribe = null;
     private static Button unsubscribe = null;
 
-    private static AndroidNativePush _this;
+    static AndroidNativePush _this;
     private MyListener listener = new MyListener(MyListener.MODE_CONNECT);
 
     private WLClient client = null;

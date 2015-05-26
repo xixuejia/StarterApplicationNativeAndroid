@@ -15,7 +15,7 @@
     android:versionName="1.0">
 
     <uses-sdk
-        android:minSdkVersion="14"
+        android:minSdkVersion="16"
         android:targetSdkVersion="21" />
     <permission
         android:name="com.sample.starternativeandroid.permission.C2D_MESSAGE"
